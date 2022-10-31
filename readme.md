@@ -9,4 +9,4 @@
 ### Configs
 
 +  Default Django Admin page is used to update the dynamic contents of the site which could be accessed at BASE_URL/eocAdmin
-+ while in development you could set the django ip for api . Do change that to "/" in production
++ while in development you could set the django ip for api . 
